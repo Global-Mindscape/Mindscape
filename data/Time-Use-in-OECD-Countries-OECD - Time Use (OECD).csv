@@ -1,0 +1,462 @@
+Country,Category,Time (minutes)
+Australia,Paid work,211
+Austria,Paid work,280
+Belgium,Paid work,194
+Canada,Paid work,269
+Denmark,Paid work,200
+Estonia,Paid work,231
+Finland,Paid work,200
+France,Paid work,170
+Germany,Paid work,224
+Greece,Paid work,187
+Hungary,Paid work,199
+Ireland,Paid work,231
+Italy ,Paid work,149
+Japan,Paid work,326
+Korea,Paid work,288
+Latvia,Paid work,317
+Lithuania,Paid work,304
+Luxembourg,Paid work,247
+Mexico,Paid work,302
+Netherlands,Paid work,218
+New Zealand,Paid work,241
+Norway ,Paid work,201
+Poland,Paid work,229
+Portugal,Paid work,259
+Slovenia,Paid work,227
+Spain,Paid work,176
+Sweden,Paid work,262
+Turkey,Paid work,217
+UK,Paid work,235
+USA,Paid work,251
+China,Paid work,315
+India,Paid work,272
+South Africa,Paid work,189
+Australia,Education,27
+Austria,Education,27
+Belgium,Education,41
+Canada,Education,36
+Denmark,Education,25
+Estonia,Education,25
+Finland,Education,29
+France,Education,34
+Germany,Education,24
+Greece,Education,40
+Hungary,Education,38
+Ireland,Education,37
+Italy ,Education,28
+Japan,Education,37
+Korea,Education,57
+Latvia,Education,13
+Lithuania,Education,12
+Luxembourg,Education,37
+Mexico,Education,45
+Netherlands,Education,25
+New Zealand,Education,29
+Norway ,Education,40
+Poland,Education,30
+Portugal,Education,36
+Slovenia,Education,38
+Spain,Education,26
+Sweden,Education,31
+Turkey,Education,29
+UK,Education,27
+USA,Education,31
+China,Education,25
+India,Education,23
+South Africa,Education,39
+Australia,Care for household members ,45
+Austria,Care for household members ,34
+Belgium,Care for household members ,22
+Canada,Care for household members ,29
+Denmark,Care for household members ,28
+Estonia,Care for household members ,28
+Finland,Care for household members ,23
+France,Care for household members ,22
+Germany,Care for household members ,19
+Greece,Care for household members ,19
+Hungary,Care for household members ,33
+Ireland,Care for household members ,61
+Italy ,Care for household members ,27
+Japan,Care for household members ,0
+Korea,Care for household members ,28
+Latvia,Care for household members ,15
+Lithuania,Care for household members ,19
+Luxembourg,Care for household members ,20
+Mexico,Care for household members ,38
+Netherlands,Care for household members ,22
+New Zealand,Care for household members ,30
+Norway ,Care for household members ,23
+Poland,Care for household members ,38
+Portugal,Care for household members ,17
+Slovenia,Care for household members ,21
+Spain,Care for household members ,35
+Sweden,Care for household members ,33
+Turkey,Care for household members ,29
+UK,Care for household members ,32
+USA,Care for household members ,31
+China,Care for household members ,23
+India,Care for household members ,21
+South Africa,Care for household members ,18
+Australia,Housework,132
+Austria,Housework,125
+Belgium,Housework,121
+Canada,Housework,115
+Denmark,Housework,128
+Estonia,Housework,121
+Finland,Housework,109
+France,Housework,129
+Germany,Housework,109
+Greece,Housework,125
+Hungary,Housework,150
+Ireland,Housework,91
+Italy ,Housework,135
+Japan,Housework,80
+Korea,Housework,76
+Latvia,Housework,130
+Lithuania,Housework,154
+Luxembourg,Housework,108
+Mexico,Housework,187
+Netherlands,Housework,105
+New Zealand,Housework,110
+Norway ,Housework,83
+Poland,Housework,135
+Portugal,Housework,161
+Slovenia,Housework,166
+Spain,Housework,116
+Sweden,Housework,107
+Turkey,Housework,124
+UK,Housework,104
+USA,Housework,100
+China,Housework,103
+India,Housework,148
+South Africa,Housework,130
+Australia,Shopping,29
+Austria,Shopping,21
+Belgium,Shopping,29
+Canada,Shopping,24
+Denmark,Shopping,26
+Estonia,Shopping,24
+Finland,Shopping,26
+France,Shopping,22
+Germany,Shopping,32
+Greece,Shopping,16
+Hungary,Shopping,19
+Ireland,Shopping,28
+Italy ,Shopping,28
+Japan,Shopping,25
+Korea,Shopping,13
+Latvia,Shopping,16
+Lithuania,Shopping,17
+Luxembourg,Shopping,23
+Mexico,Shopping,14
+Netherlands,Shopping,28
+New Zealand,Shopping,24
+Norway ,Shopping,20
+Poland,Shopping,25
+Portugal,Shopping,15
+Slovenia,Shopping,18
+Spain,Shopping,25
+Sweden,Shopping,23
+Turkey,Shopping,14
+UK,Shopping,29
+USA,Shopping,22
+China,Shopping,20
+India,Shopping,12
+South Africa,Shopping,9
+Australia,Other unpaid work & volunteering,58
+Austria,Other unpaid work & volunteering,32
+Belgium,Other unpaid work & volunteering,30
+Canada,Other unpaid work & volunteering,52
+Denmark,Other unpaid work & volunteering,45
+Estonia,Other unpaid work & volunteering,40
+Finland,Other unpaid work & volunteering,81
+France,Other unpaid work & volunteering,17
+Germany,Other unpaid work & volunteering,53
+Greece,Other unpaid work & volunteering,26
+Hungary,Other unpaid work & volunteering,36
+Ireland,Other unpaid work & volunteering,72
+Italy ,Other unpaid work & volunteering,43
+Japan,Other unpaid work & volunteering,98
+Korea,Other unpaid work & volunteering,42
+Latvia,Other unpaid work & volunteering,39
+Lithuania,Other unpaid work & volunteering,42
+Luxembourg,Other unpaid work & volunteering,42
+Mexico,Other unpaid work & volunteering,46
+Netherlands,Other unpaid work & volunteering,46
+New Zealand,Other unpaid work & volunteering,59
+Norway ,Other unpaid work & volunteering,77
+Poland,Other unpaid work & volunteering,39
+Portugal,Other unpaid work & volunteering,35
+Slovenia,Other unpaid work & volunteering,32
+Spain,Other unpaid work & volunteering,54
+Sweden,Other unpaid work & volunteering,33
+Turkey,Other unpaid work & volunteering,60
+UK,Other unpaid work & volunteering,62
+USA,Other unpaid work & volunteering,65
+China,Other unpaid work & volunteering,33
+India,Other unpaid work & volunteering,22
+South Africa,Other unpaid work & volunteering,41
+Australia,Sleep,512
+Austria,Sleep,498
+Belgium,Sleep,513
+Canada,Sleep,520
+Denmark,Sleep,489
+Estonia,Sleep,530
+Finland,Sleep,508
+France,Sleep,513
+Germany,Sleep,498
+Greece,Sleep,500
+Hungary,Sleep,506
+Ireland,Sleep,491
+Italy ,Sleep,513
+Japan,Sleep,442
+Korea,Sleep,471
+Latvia,Sleep,512
+Lithuania,Sleep,503
+Luxembourg,Sleep,518
+Mexico,Sleep,499
+Netherlands,Sleep,503
+New Zealand,Sleep,526
+Norway ,Sleep,492
+Poland,Sleep,509
+Portugal,Sleep,506
+Slovenia,Sleep,501
+Spain,Sleep,516
+Sweden,Sleep,483
+Turkey,Sleep,515
+UK,Sleep,508
+USA,Sleep,528
+China,Sleep,542
+India,Sleep,528
+South Africa,Sleep,553
+Australia,Eating and drinking,89
+Austria,Eating and drinking,79
+Belgium,Eating and drinking,99
+Canada,Eating and drinking,65
+Denmark,Eating and drinking,119
+Estonia,Eating and drinking,79
+Finland,Eating and drinking,81
+France,Eating and drinking,133
+Germany,Eating and drinking,95
+Greece,Eating and drinking,128
+Hungary,Eating and drinking,101
+Ireland,Eating and drinking,75
+Italy ,Eating and drinking,127
+Japan,Eating and drinking,93
+Korea,Eating and drinking,117
+Latvia,Eating and drinking,89
+Lithuania,Eating and drinking,88
+Luxembourg,Eating and drinking,112
+Mexico,Eating and drinking,77
+Netherlands,Eating and drinking,114
+New Zealand,Eating and drinking,80
+Norway ,Eating and drinking,79
+Poland,Eating and drinking,91
+Portugal,Eating and drinking,112
+Slovenia,Eating and drinking,86
+Spain,Eating and drinking,126
+Sweden,Eating and drinking,83
+Turkey,Eating and drinking,118
+UK,Eating and drinking,79
+USA,Eating and drinking,63
+China,Eating and drinking,100
+India,Eating and drinking,84
+South Africa,Eating and drinking,72
+Australia,Personal care,56
+Austria,Personal care,55
+Belgium,Personal care,53
+Canada,Personal care,52
+Denmark,Personal care,52
+Estonia,Personal care,54
+Finland,Personal care,52
+France,Personal care,107
+Germany,Personal care,55
+Greece,Personal care,57
+Hungary,Personal care,76
+Ireland,Personal care,42
+Italy ,Personal care,68
+Japan,Personal care,85
+Korea,Personal care,90
+Latvia,Personal care,40
+Lithuania,Personal care,54
+Luxembourg,Personal care,55
+Mexico,Personal care,58
+Netherlands,Personal care,65
+New Zealand,Personal care,42
+Norway ,Personal care,56
+Poland,Personal care,57
+Portugal,Personal care,58
+Slovenia,Personal care,41
+Spain,Personal care,51
+Sweden,Personal care,57
+Turkey,Personal care,50
+UK,Personal care,58
+USA,Personal care,57
+China,Personal care,52
+India,Personal care,75
+South Africa,Personal care,70
+Australia,Sports,19
+Austria,Sports,32
+Belgium,Sports,21
+Canada,Sports,21
+Denmark,Sports,22
+Estonia,Sports,27
+Finland,Sports,37
+France,Sports,12
+Germany,Sports,26
+Greece,Sports,28
+Hungary,Sports,13
+Ireland,Sports,20
+Italy ,Sports,38
+Japan,Sports,10
+Korea,Sports,27
+Latvia,Sports,25
+Lithuania,Sports,16
+Luxembourg,Sports,33
+Mexico,Sports,14
+Netherlands,Sports,22
+New Zealand,Sports,17
+Norway ,Sports,21
+Poland,Sports,23
+Portugal,Sports,12
+Slovenia,Sports,32
+Spain,Sports,42
+Sweden,Sports,34
+Turkey,Sports,9
+UK,Sports,19
+USA,Sports,18
+China,Sports,23
+India,Sports,5
+South Africa,Sports,5
+Australia,Attending events,6
+Austria,Attending events,9
+Belgium,Attending events,15
+Canada,Attending events,6
+Denmark,Attending events,7
+Estonia,Attending events,8
+Finland,Attending events,8
+France,Attending events,15
+Germany,Attending events,14
+Greece,Attending events,5
+Hungary,Attending events,6
+Ireland,Attending events,42
+Italy ,Attending events,6
+Korea,Attending events,4
+Latvia,Attending events,5
+Lithuania,Attending events,1
+Luxembourg,Attending events,12
+Mexico,Attending events,7
+Netherlands,Attending events,7
+New Zealand,Attending events,6
+Norway ,Attending events,8
+Poland,Attending events,3
+Portugal,Attending events,11
+Slovenia,Attending events,5
+Spain,Attending events,9
+Sweden,Attending events,9
+Turkey,Attending events,3
+UK,Attending events,7
+USA,Attending events,8
+China,Attending events,2
+India,Attending events,5
+South Africa,Attending events,5
+Australia,Seeing friends,40
+Austria,Seeing friends,82
+Belgium,Seeing friends,50
+Canada,Seeing friends,53
+Denmark,Seeing friends,81
+Estonia,Seeing friends,38
+Finland,Seeing friends,55
+France,Seeing friends,55
+Germany,Seeing friends,61
+Greece,Seeing friends,56
+Hungary,Seeing friends,35
+Ireland,Seeing friends,49
+Italy ,Seeing friends,65
+Japan,Seeing friends,17
+Korea,Seeing friends,42
+Latvia,Seeing friends,35
+Lithuania,Seeing friends,32
+Luxembourg,Seeing friends,32
+Mexico,Seeing friends,44
+Netherlands,Seeing friends,73
+New Zealand,Seeing friends,69
+Norway ,Seeing friends,57
+Poland,Seeing friends,45
+Portugal,Seeing friends,44
+Slovenia,Seeing friends,62
+Spain,Seeing friends,51
+Sweden,Seeing friends,53
+Turkey,Seeing friends,68
+UK,Seeing friends,47
+USA,Seeing friends,44
+China,Seeing friends,23
+India,Seeing friends,73
+South Africa,Seeing friends,82
+Australia,TV and Radio,140
+Austria,TV and Radio,109
+Belgium,TV and Radio,131
+Canada,TV and Radio,109
+Denmark,TV and Radio,123
+Estonia,TV and Radio,122
+Finland,TV and Radio,118
+France,TV and Radio,114
+Germany,TV and Radio,118
+Greece,TV and Radio,137
+Hungary,TV and Radio,134
+Ireland,TV and Radio,85
+Italy ,TV and Radio,104
+Japan,TV and Radio,103
+Korea,TV and Radio,102
+Latvia,TV and Radio,123
+Lithuania,TV and Radio,137
+Luxembourg,TV and Radio,116
+Mexico,TV and Radio,66
+Netherlands,TV and Radio,113
+New Zealand,TV and Radio,124
+Norway ,TV and Radio,129
+Poland,TV and Radio,122
+Portugal,TV and Radio,114
+Slovenia,TV and Radio,120
+Spain,TV and Radio,129
+Sweden,TV and Radio,113
+Turkey,TV and Radio,124
+UK,TV and Radio,133
+USA,TV and Radio,148
+China,TV and Radio,127
+India,TV and Radio,61
+South Africa,TV and Radio,132
+Australia,Other leisure activities,76
+Austria,Other leisure activities,59
+Belgium,Other leisure activities,122
+Canada,Other leisure activities,89
+Denmark,Other leisure activities,95
+Estonia,Other leisure activities,114
+Finland,Other leisure activities,113
+France,Other leisure activities,98
+Germany,Other leisure activities,112
+Greece,Other leisure activities,115
+Hungary,Other leisure activities,94
+Ireland,Other leisure activities,116
+Italy ,Other leisure activities,110
+Japan,Other leisure activities,148
+Korea,Other leisure activities,82
+Latvia,Other leisure activities,81
+Lithuania,Other leisure activities,61
+Luxembourg,Other leisure activities,82
+Mexico,Other leisure activities,41
+Netherlands,Other leisure activities,101
+New Zealand,Other leisure activities,85
+Norway ,Other leisure activities,154
+Poland,Other leisure activities,93
+Portugal,Other leisure activities,60
+Slovenia,Other leisure activities,92
+Spain,Other leisure activities,85
+Sweden,Other leisure activities,112
+Turkey,Other leisure activities,82
+UK,Other leisure activities,98
+USA,Other leisure activities,73
+China,Other leisure activities,53
+India,Other leisure activities,109
+South Africa,Other leisure activities,82

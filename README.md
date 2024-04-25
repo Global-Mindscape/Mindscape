@@ -4,7 +4,7 @@
 This Capstone Project focuses on analyzing and visualizing global data related to mental health, with a specific focus on depression, anxiety, and suicide rates. Utilizing the Global Burden of Disease (GBD) dataset spanning from 1990 to 2019 and multiple surveys. Our objective is to identify and understand trends, patterns, risk factors, and impacts associated with mental health disorders and suicide across different regions, groups and years. 
 
 ## Project Description
-Our project aims to raise awareness, promote understanding, and encourage meaningful action, and support to improve mental well-being and address the challenges and complexities associated with mental health on a global scale.
+Our project aims to raise awareness, promote understanding and encourage action and support to improve mental well-being and address the challenges and complexities associated with mental health on a global and indivual scale.
 
 ## Process
 1. Data Collection

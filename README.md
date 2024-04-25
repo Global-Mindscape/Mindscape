@@ -25,7 +25,7 @@ For our presentation we collected all our informative charts into Canva and then
 - Identify leading risk factors, causes, and impacts associated with mental health disorders and suicide and explore their contributions to the overall burden of disease. 
 - Develop informative, compelling, and engaging visualizations and presentations to raise awareness, educate, inform, and inspire action on mental health and mental well-being.
 
-## Expected Outcomes
+## Key Outcome
 Contribute to mental health research, promoting mental well-being, resilience and supporting the efforts to reduce the global burden of mental health disorders and suicide.
 
 ## Usage

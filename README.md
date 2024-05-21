@@ -18,7 +18,7 @@ To efficiently manage our datasets and collaborate as a team, we stored them in 
 5. Visualization
 Developed compelling and informative visualizations, including line charts, bar and column charts, heat maps, bubble charts, tree map, scatter plots, and interactive dashboards. To present and communicate the analyzed data and insights effectively and engage with the audience.
 6. Presentation
-For our presentation we collected all our informative charts into Canva and then build a storyline upon that. Feel free to check out our final presentation on YouTube here:
+For our presentation we collected all our informative charts into Canva and then build a storyline upon that. Feel free to check out our final live presentation on YouTube here: https://youtu.be/HcITRKhG09A
 
 ## Key Objectives
 - Analyze and interpret trends, patterns, and changes in mental disorders and suicide rates globally and across different regions, countries, and demographic groups.
